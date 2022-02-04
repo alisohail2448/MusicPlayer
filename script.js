@@ -28,32 +28,32 @@ let track = document.createElement('audio');
 let All_song = [
     {
       name: "Main Hoon Saath Tere Song ",
-      path: "/music/song1.mp3",
-      img: "/images/img1.jpg",
+      path: "music/song1.mp3",
+      img: "images/img1.jpg",
       singer: "Arijit Singh",
     },
     {
       name: "Enna Sona Song",
-      path: "/music/song2.mp3",
-      img: "/images/img2.jpg",
+      path: "music/song2.mp3",
+      img: "images/img2.jpg",
       singer: "Arijit Singh",
     },
     {
       name: "Kalank Title Track",
-      path: "/music/song3.mp3",
-      img: "/images/img3.jpg",
+      path: "music/song3.mp3",
+      img: "images/img3.jpg",
       singer: "Arijit Singh",
     },
     {
       name: "Tum Hi Ho Song",
-      path: "/music/song4.mp3",
-      img: "/images/img4.jpg",
+      path: "music/song4.mp3",
+      img: "images/img4.jpg",
       singer: "fArijit Singh",
     },
     {
       name: "Zalima Song",
-      path: "/music/song5.mp3",
-      img: "/images/img5.jpg",
+      path: "music/song5.mp3",
+      img: "images/img5.jpg",
       singer: "Arijit Singh",
     },
   ];
